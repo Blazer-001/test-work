@@ -1,5 +1,5 @@
-# include <iostream>
-# include <string>
+#include <iostream>
+#include <string>
 
 // Задача 3.
 void SwapValues(int* a, int* b) {
