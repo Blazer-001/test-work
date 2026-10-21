@@ -19,4 +19,6 @@ int main() {
     std::cin >> a >> b >> c;
 
     TriangleType(a, b, c);
+
+    return 0;
 }

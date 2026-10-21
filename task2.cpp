@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Задача 2
+// Задача 2.
 int NumberAnalysis(long long n) {
     int sum = 0;
     int even = 0;
@@ -21,5 +21,7 @@ int main() {
 
     int result = NumberAnalysis(n);
     std::cout << result % 1000 << " " <<  result / 1000 << '\n';
+
+    return 0;
 
 }
